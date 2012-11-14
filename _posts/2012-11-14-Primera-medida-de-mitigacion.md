@@ -1,4 +1,5 @@
 ---
+title : Primera medida de mitigación.
 layout: post
 category : opinion
 tags : [intro]
@@ -8,8 +9,9 @@ tags : [intro]
 La seguridad de nuestras aplicaciones es algo muy importante, pero generalmente deambula entre la ignorancia
 y la subapreciación. Ejemplo de esto es el hecho de que en una conferencia muy importante y popular durante
 el 2011, la [StarTechConf](http://www.startechconf.com/), el tema fue consiserado irrelevante, y en la
-Conferencia de Seguridad de la Información [8.8](http://www.8dot8.org/), la disciplina fue considerada como
-"demasiado de Ingeniería de Software para el evento".
+Conferencia de Seguridad de la Información [8.8](http://www.8dot8.org/) 2012, la disciplina fue considerada
+como "demasiado de Ingeniería de Software para el evento" (o así me lo dieron a entender los organizadores de
+ambos eventos).
 
 Es esta suerte de limbo, junto con una inadecuada educación al respecto, lo que causa que muchas veces
 desarrollemos aplicaciones vulnerables a filtraciones o modificaciones ilícitas de información. Y no sólo
