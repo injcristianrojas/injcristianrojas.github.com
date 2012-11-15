@@ -5,7 +5,7 @@ tagline: al blog de Seguridad de Software
 ---
 {% include JB/setup %}
 
-Mi nombre es [Cristián Rojas](http://www.linkedin.com/in/crirojas), y llevo un tiempo dedicándome a la protección
+Mi nombre es [Cristián Rojas](/about.html), y llevo un tiempo dedicándome a la protección
 de aplicaciones, evaluación del estado de su seguridad y educando a presentes y futuros desarrolladores
 profesionales e ingenieros de software acerca de conceptos, técnicas e importancia de integrar seguridad a
 las aplicaciones que éstos desarrollan.
