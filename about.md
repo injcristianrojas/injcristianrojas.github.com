@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<div style="float: left; padding-right:10px;"><img src="/assets/img/crbacan.jpg" /></div>
+<div style="float: left; padding-right:10px;"><img src="/assets/img/cr.jpg" /></div>
 
 Cristián Rojas es [Ingeniero Civil en Computación de la Universidad de Chile](http://www.dcc.uchile.cl/).
 Actualmente se desempeña como especialista en monitoreo de sistemas para [Firenxis](http://www.firenxis.com/),
