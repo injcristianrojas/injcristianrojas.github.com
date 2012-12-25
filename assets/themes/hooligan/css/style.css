@@ -155,6 +155,10 @@ hr {
   margin: 0;
 }
 
+.content li {
+  line-height: 20px;
+}
+
 /* Page header tweaks */
 /* line 142, ../_sass/_base.scss */
 .page-header {
