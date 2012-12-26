@@ -79,7 +79,7 @@ necesario, además, presentan un problema muy parecido al
 
 > "Cualquier pregunta no trivial que hagas acerca de un programa puede ser reducido al problema de la parada"
 
-Una pregunta no trivial acerca de un programa podría ser perfectamente __"¿Qué vulnerabilidades tiene mi programa?"__.
+Una pregunta no trivial acerca de un programa podría ser __"¿Qué vulnerabilidades tiene mi programa?"__.
 Producto de esto, una herramienta automatizada podría ser tener sólo dos de las siguientes características: rapidez,
 confiabilidad o bajo costo. No las tres.
 
