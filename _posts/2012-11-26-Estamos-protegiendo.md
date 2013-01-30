@@ -101,3 +101,4 @@ Para usar Bcrypt está [esta biblioteca para C#](https://bcrypt.codeplex.com/).
 * **PHP**: [PHP-PBKDF2](https://defuse.ca/php-pbkdf2.htm). La versión 5.5 de PHP (en versión alpha actualmente)
 traerá una API especialmente diseñada para el uso de KDF's, el cual incluye Bcrypt. Mientras tanto pueden usar
 [esta biblioteca](https://github.com/ircmaxell/password_compat).
+* **NodeJS**: [Bcrypt](http://hermanjunge.com/post/41863341875/encrypt-with-bcrypt-in-nodejs)
