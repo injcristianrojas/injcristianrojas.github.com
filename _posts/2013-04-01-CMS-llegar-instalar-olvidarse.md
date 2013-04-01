@@ -42,13 +42,14 @@ buscando plugins vulnerables, como [WPScan](http://wpscan.org/) para WordPress.
 
 Esto da pie para que ocurran varios
 [defacements](https://en.wikipedia.org/wiki/Website_defacement) (el equivalente
-digital del rayado de muros) como el ocurrido con el caso del sitio web de
-[TECHO](http://www.elobservatodo.cl/noticia/sociedad/pagina-de-techo-fue-hackeada-por-revolucion).
-Pero no sólo eso, ya que estos ataques pueden pasar de algo "inocuo" como un
-defacement a algo peor, como robar información o instalar malware el cual dará
-más de algún dolor de cabeza a quienes administran el sitio, ya que si no lo
-pilla [Google](https://en.wikipedia.org/wiki/Google_Safe_Browsing) antes, quienes
-ingresen al sitio se verán infectados.
+digital del rayado de muros), pero no sólo eso, ya que estos ataques pueden pasar
+de algo "inocuo" como un defacement a algo peor, como robar información o instalar
+malware el cual dará más de algún dolor de cabeza a quienes administran el sitio,
+ya que si no lo pilla [Google](https://en.wikipedia.org/wiki/Google_Safe_Browsing)
+antes, quienes ingresen al sitio se verán infectados. Un caso conocido de este tipo
+de ataques, que resultó en un defacement y la revelación de datos de usuarios es la
+que afectó a [Chilevisión](http://www.emol.com/noticias/magazine/2012/08/06/554375/organizacion-peruana-hackea-sitio-web-de-chilevision.html)
+el año pasado.
 
 Por esto es importante tener en cuenta lo siguiente, al momento de administrar
 un CMS:
