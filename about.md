@@ -10,9 +10,10 @@ group: navigation
 
 Cristián Rojas es
 [Ingeniero Civil en Computación de la Universidad de Chile](http://www.dcc.uchile.cl/).
-Actualmente se desempeña como
-[consultor freelance](http://www.linkedin.com/in/crirojas) en seguridad de
-software y de politicas empresariales de seguridad de la información,
+Además es profesional certificado en Seguridad de Software ([Certified Secure
+Software Lifecycle Professional - CSSLP](https://www.isc2.org/CSSLP/Default.aspx)).
+Actualmente se desempeña como [consultor freelance](http://www.linkedin.com/in/crirojas)
+en seguridad de software y de politicas empresariales de seguridad de la información,
 asesorando y capacitando a empresas en desarrollo de software seguro.
 
 También se desempeña en el campo de la docencia, participando como profesor
